@@ -1,6 +1,6 @@
 # shoes-store
 
-![image](https://user-images.githubusercontent.com/73564732/141971782-82285171-0d20-4888-aa08-39934fa41de6.png)
+![image](https://user-images.githubusercontent.com/73564732/146177106-54719c79-7475-4d2b-94fb-c22beb74ee27.png)
 
 
 
